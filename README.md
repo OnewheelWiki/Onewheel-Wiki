@@ -1,6 +1,6 @@
 # Another Unofficial Onewheel Wiki
 
-![Pint](media/pint.jpg)
+![Pint](media/pint-200.jpg)
 
 * See the Original [Unofficial Onewheel Wiki](https://onewheel.wiki/Main_Page)
   * It seems to be unmaintained so I created this one.  If this becomes unmaintained, just clone it.
