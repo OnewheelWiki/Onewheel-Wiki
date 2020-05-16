@@ -17,10 +17,25 @@
   * Maghandle
   * Simplestop
 
-## Details
+## Hardware
 
 * Motor: 750W hub motor
 * Battery: 147WH
 * Charger: 63v
   * Standard: [1.3A](https://www.reddit.com/r/onewheel/comments/cks79d/pint_chargerultracharger_amperage/)
   * [Ultracharger](https://onewheel.com/products/pint-ultracharger): 50 minutes 
+
+### Model Numbers
+
+  * 5300
+    * Firmware: Gemini - 5042
+  * 5301
+    * Firmware: Gemini - 5040
+    * Firmware: Gemini - 5050
+  * 5314
+    * Firmware: Gemini - 5050
+
+[Source](https://www.reddit.com/r/onewheel/comments/efoxzx/pint_hardwarefirmware_versions_bluetooth/)
+
+
+
