@@ -17,6 +17,10 @@
   * Maghandle
   * Simplestop
 
+## Reception
+
+The stock tire is not highly regarded, but the quoted range is understated, with people getting far more range than expected.  The wet-weather hardening is a big improvment on the XR.
+
 ## Hardware
 
 * Motor: 750W hub motor
