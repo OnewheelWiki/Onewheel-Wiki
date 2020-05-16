@@ -1,4 +1,4 @@
-# Pint
+# Onewheel Pint
 
 ![Pint](media/pint-200.jpg)
 
