@@ -13,7 +13,7 @@
   * Ultracharger: 50 minutes
 * Features
   * Wet-weather hardened
-    * Except bearings
+    * (Except bearings)
   * Maghandle
   * Simplestop
 
