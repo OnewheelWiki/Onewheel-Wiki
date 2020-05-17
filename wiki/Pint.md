@@ -41,6 +41,11 @@ The stock tire is not highly regarded, but the quoted range is understated, with
 
 [Source](https://www.reddit.com/r/onewheel/comments/efoxzx/pint_hardwarefirmware_versions_bluetooth/)
 
+## Mods
+* Extending Range
+  * Conversion Kit
+    * [Sonnywheels VnR2](https://sonnywheels.com/products/pint-greenworks-extender-rnr-compete-kit-backpack?_pos=1&_sid=f4eb96a1c&_ss=r)
+  * Note: "Minor disruption" on some firmware.
 
-# Useful Info
+## Misc Info
 * Tire [Slime](https://www.slime.com/) refill amount: [4.1oz](https://www.reddit.com/r/onewheelpint/comments/ggj5mf/bestcheapest_place_to_buy_replacement_tires/fqx2n31?utm_source=share&utm_medium=web2x)
