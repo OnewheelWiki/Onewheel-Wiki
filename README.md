@@ -10,5 +10,6 @@ Self balancing personal electric board from [Future Motion Inc.](https://onewhee
 * Accessories
   * [The Float Life](https://float-supply.com/)
   * [FlightFins](https://www.flightfins.com/)
+  * [OWarmor.com](https://owarmor.com/)
 
 License: [CC BY-SA 3.0](LICENSE)
