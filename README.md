@@ -3,7 +3,7 @@
 
 Self balancing personal electric board from [Future Motion Inc.](https://onewheel.com/)
 
-* See the Original [Unofficial Onewheel Wiki](https://onewheel.wiki/Main_Page)
+* Original [Unofficial Onewheel Wiki](https://onewheel.wiki/Main_Page) got suspended 2020-05-17
 * Models
   * [Pint](wiki/Pint.md)
 * [Accessories](wiki/Accessories.md)
