@@ -43,4 +43,4 @@ The stock tire is not highly regarded, but the quoted range is understated, with
 
 
 # Useful Info
-* Tire slime refill amount: [4.1oz](https://www.reddit.com/r/onewheelpint/comments/ggj5mf/bestcheapest_place_to_buy_replacement_tires/fqx2n31?utm_source=share&utm_medium=web2x)
+* Tire [Slime](https://www.slime.com/) refill amount: [4.1oz](https://www.reddit.com/r/onewheelpint/comments/ggj5mf/bestcheapest_place_to_buy_replacement_tires/fqx2n31?utm_source=share&utm_medium=web2x)
