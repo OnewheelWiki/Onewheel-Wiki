@@ -1,6 +1,14 @@
 #Pint VnR
 
-Just gathering facts at this point.
+**WARNING: Modifying your board can void warranty and cause damage, injury or death.**
 
-*  Main front-to-back power-cable is only live when the board is on. Hardware 5300, firmware 5042.
+Just collating info at this point.
+
+
+
+## Notes
+
+* Main front-to-back power-cable is only live when the board is on. Hardware 5300, firmware 5042.
   * Source: https://youtu.be/uv1HVwRvcQA?t=1563
+* Useful components:
+
