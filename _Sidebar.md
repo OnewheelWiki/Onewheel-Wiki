@@ -1,1 +1,0 @@
-[Search](https://github.com/OnewheelWiki/Onewheel-Wiki/wiki/search?type=Wikis)
