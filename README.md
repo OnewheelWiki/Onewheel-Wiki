@@ -1,4 +1,4 @@
-# Another Unofficial Onewheel Wiki
+# Another Unofficial Onewheel Wiki (Pint-centric ATM)
 ![Pint](wiki/media/pint-200.jpg)
 
 Self balancing personal electric board from [Future Motion Inc.](https://onewheel.com/)
