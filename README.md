@@ -6,10 +6,6 @@ Self balancing personal electric board from [Future Motion Inc.](https://onewhee
 * See the Original [Unofficial Onewheel Wiki](https://onewheel.wiki/Main_Page)
 * Models
   * [Pint](wiki/Pint.md)
-
-* Accessories
-  * [The Float Life](https://float-supply.com/)
-  * [FlightFins](https://www.flightfins.com/)
-  * [OWarmor.com](https://owarmor.com/)
+* [Accessories](wiki/Accessories.md)
 
 License: [CC BY-SA 3.0](LICENSE)
